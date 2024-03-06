@@ -1,0 +1,36 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore Cypress binary cache
+Cypress/
+
+# Ignore generated videos and screenshots
+cypress/videos/
+cypress/screenshots/
+
+# Ignore configuration file
+cypress.env.json
+
+# Ignore logs
+*.log
+
+# Ignore generated JavaScript files
+*.js
+
+# Ignore Cypress binary
+cypress.json
+
+# Ignore plugins directory
+cypress/plugins/
+
+# Ignore Cypress support files
+cypress/support/
+
+# Ignore videos and screenshots when running Cypress in parallel
+cypress-parallel/
+
+# Ignore .DS_Store files on macOS
+.DS_Store
+
+# Ignore Thumbs.db on Windows
+Thumbs.db
